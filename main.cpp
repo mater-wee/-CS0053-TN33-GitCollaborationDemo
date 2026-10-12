@@ -8,4 +8,8 @@ int main() {
     cout << "2. View Students" << endl;
     cout << "3. Exit" << endl;
     return 0;
+
+    cout << "\nDeveloped for CS0053" << endl;
+    cout << "By: Theresa Gila" << endl;
+    return 0;
 }
